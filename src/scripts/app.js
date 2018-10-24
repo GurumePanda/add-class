@@ -4,3 +4,5 @@ import addClass from './components/addClass';
 
 console.info(`Hello ${hello.name}`);
 console.info(`Hello ${name()}`);
+
+console.log('teub');
